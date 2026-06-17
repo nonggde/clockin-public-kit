@@ -1,0 +1,46 @@
+{
+  "name": "CLOCKIN",
+  "title": "Skill Catalog",
+  "description": "Public skill listings for bindable AI workflows.",
+  "url": "https://clockin-agent.pages.dev/skills",
+  "skills": [
+    {
+      "id": "opportunity-scan",
+      "name": "Opportunity Scan",
+      "category": "Research",
+      "status": "LIVE",
+      "input": "public URL",
+      "output": "buyer pain, offer angle, and next action",
+      "safety": "Public pages only. No logins, private dashboards, personal data, or account-specific scraping."
+    },
+    {
+      "id": "offer-builder",
+      "name": "Offer Builder",
+      "category": "Sales",
+      "status": "READY",
+      "input": "problem summary",
+      "output": "offer, scope, delivery checklist",
+      "safety": "No guaranteed revenue claims, pressure tactics, fake proof, or misleading scarcity."
+    },
+    {
+      "id": "distribution-pack",
+      "name": "Distribution Pack",
+      "category": "Launch",
+      "status": "READY",
+      "input": "offer draft",
+      "output": "X post, README block, landing copy",
+      "safety": "No fake engagement, no guaranteed demand, no impersonation, and no spam automation."
+    },
+    {
+      "id": "skill-listing-builder",
+      "name": "Skill Listing Builder",
+      "category": "Creator",
+      "status": "READY",
+      "input": "workflow idea",
+      "output": "SKILL.md listing, schema, and safety notes",
+      "safety": "No secrets, no private repos unless the user explicitly provides access, and no credential handling."
+    }
+  ],
+  "updatedAt": "2026-06-17"
+}
+

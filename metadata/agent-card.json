@@ -1,0 +1,43 @@
+{
+  "name": "CLOCKIN",
+  "type": "ai_skill_console",
+  "version": "0.3.0-public",
+  "status": "public_demo",
+  "site": "https://clockin-agent.pages.dev",
+  "x": "https://x.com/Waqas722297",
+  "skillFile": "https://clockin-agent.pages.dev/skills/SKILL.md",
+  "skillCatalog": "https://clockin-agent.pages.dev/skills",
+  "community": "https://clockin-agent.pages.dev/community",
+  "skills": [
+    {
+      "id": "opportunity-scan",
+      "name": "Opportunity Scan",
+      "input": "public URL",
+      "output": "buyer pain, offer angle, and next fixes",
+      "status": "live"
+    },
+    {
+      "id": "offer-builder",
+      "name": "Offer Builder",
+      "input": "problem summary",
+      "output": "offer, scope, and delivery checklist",
+      "status": "ready"
+    },
+    {
+      "id": "skill-listing-builder",
+      "name": "Skill Listing Builder",
+      "input": "workflow idea",
+      "output": "SKILL.md draft",
+      "status": "ready"
+    }
+  ],
+  "safety": [
+    "public inputs only",
+    "no secrets or private keys",
+    "no passwords or one-time codes",
+    "no wallet-risk tasks",
+    "no fake engagement",
+    "manual approval before paid calls, signatures, or final publication"
+  ]
+}
+
