@@ -17,6 +17,10 @@ These examples show how to run CLOCKIN skills with public inputs only. They are 
 | `github-readme-buyer-audit.md` | Public Code Review / Opportunity Scan | public GitHub repo URL | README issue map and product clarity fixes |
 | `solana-creator-launch-readiness.md` | Skill Listing Builder / Launch Safety | public site + repo + token page | launch-readiness checklist and risky-copy review |
 
+## Example Outputs
+
+- `outputs/opportunity-scan-clockin-site.json`
+
 ## Starter Prompt
 
 ```text

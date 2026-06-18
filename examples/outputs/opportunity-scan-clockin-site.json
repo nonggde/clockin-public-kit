@@ -1,0 +1,29 @@
+{
+  "url": "https://clockin-agent.pages.dev/",
+  "status": 200,
+  "score": 100,
+  "title": "CLOCKIN AI Skill Console",
+  "description": "CLOCKIN is a public AI skill console for binding agents, browsing SKILL.md workflows, drafting skill listings, previewing creator passes, and staging wallet-based access.",
+  "h1": "Bind your AI",
+  "audience": "developers and technical teams",
+  "painHypothesis": "The page likely needs sharper proof around: CLOCKIN AI Skill Console | CLOCKIN is a public AI skill console for binding agents, browsing SKILL.md workflows, drafting skill listings, previewing creator passes, and staging wallet-based access. | Bind your AI",
+  "offerAngle": "Lead with integration speed, reliability proof, and a clear developer quickstart.",
+  "missingProof": "No obvious proof gap from the lightweight scan; next proof should be a public example or case note.",
+  "nextAction": "Signals look solid. Next step: compare against competitors and sharpen the above-the-fold offer.",
+  "signals": [
+    { "label": "HTTP page responded", "pass": true },
+    { "label": "Readable title", "pass": true },
+    { "label": "Meta description", "pass": true },
+    { "label": "Clear H1", "pass": true },
+    { "label": "Structured data", "pass": true },
+    { "label": "Open Graph metadata", "pass": true },
+    { "label": "Canonical URL", "pass": true },
+    { "label": "Pricing signal", "pass": true },
+    { "label": "Docs or proof signal", "pass": true },
+    { "label": "Contact or conversion path", "pass": true }
+  ],
+  "recommendations": [
+    "Signals look solid. Next step: compare against competitors and sharpen the above-the-fold offer."
+  ],
+  "boundary": "Public homepage only. No login, private dashboard, wallet action, or personal data."
+}
