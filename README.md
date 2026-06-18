@@ -7,6 +7,7 @@ Skill catalog: https://clockin-agent.pages.dev/skills
 Creator Pass: https://clockin-agent.pages.dev/#creator-pass  
 Community page: https://clockin-agent.pages.dev/community  
 Builder brief: https://clockin-agent.pages.dev/pitch  
+Share Kit: https://clockin-agent.pages.dev/share  
 X: https://x.com/Waqas722297  
 Token: https://pump.fun/coin/HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump
 
@@ -25,6 +26,7 @@ HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump
 - A draft-skill flow for packaging new workflows.
 - A no-signature Creator Pass preview for public Solana addresses and skill ideas.
 - A manual Creator Listing Ticket output that can open a prefilled GitHub issue draft without automatic submission.
+- A public Share Kit with product-first X copy, builder reply copy, CA, Pump link, and safe wording.
 - GitHub issue templates for skill requests, Creator Pass feedback, and UX reports.
 - A live token surface for staged skill access, creator identity, listing actions, and route voting.
 
