@@ -2,6 +2,12 @@
 
 CLOCKIN accepts small, inspectable skill ideas. A good skill should be useful with public input only and should produce a concrete artifact.
 
+Use GitHub Issues for:
+
+- skill route requests
+- Creator Pass feedback
+- public site or mobile UX feedback
+
 ## Skill Proposal Template
 
 ```text
@@ -35,4 +41,3 @@ Safety boundary:
 - purchasing/refund tasks
 - verification-code or one-time-code tasks
 - profit promises or investment advice
-

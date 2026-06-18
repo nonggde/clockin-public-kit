@@ -17,6 +17,7 @@ X: https://x.com/Waqas722297
 - A machine-readable agent card on the live site.
 - A draft-skill flow for packaging new workflows.
 - A no-signature Creator Pass preview for public Solana addresses and skill ideas.
+- GitHub issue templates for skill requests, Creator Pass feedback, and UX reports.
 
 ## How To Try It
 
@@ -66,3 +67,10 @@ Open an issue with:
 - safety boundary
 
 Good skill ideas are narrow, repeatable, and useful without private data.
+
+Useful links:
+
+- Roadmap: `ROADMAP.md`
+- Safety boundary: `SAFETY.md`
+- Skill route request: `.github/ISSUE_TEMPLATE/skill-route-request.md`
+- Creator Pass feedback: `.github/ISSUE_TEMPLATE/creator-pass-feedback.md`
