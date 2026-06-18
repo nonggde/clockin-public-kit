@@ -17,7 +17,13 @@
       "creator name",
       "skill idea"
     ],
-    "boundary": "format check only; no wallet connection, signature, balance check, or token transfer"
+    "output": [
+      "readiness card",
+      "skill listing draft",
+      "manual GitHub issue ticket",
+      "next AI prompt"
+    ],
+    "boundary": "format check only; no wallet connection, signature, balance check, token transfer, or automatic public submission"
   },
   "skills": [
     {
@@ -45,7 +51,7 @@
       "id": "creator-pass-preview",
       "name": "Creator Pass Preview",
       "input": "public Solana address, creator name, and skill idea",
-      "output": "readiness card, listing draft, and next AI prompt",
+      "output": "readiness card, listing draft, manual GitHub issue ticket, and next AI prompt",
       "status": "live"
     }
   ],

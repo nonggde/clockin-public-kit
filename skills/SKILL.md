@@ -19,7 +19,7 @@ Then ask which skill the user wants to run.
 - Community: https://clockin-agent.pages.dev/community
 - Agent Card: https://clockin-agent.pages.dev/agent-card.json
 - Creator Pass: https://clockin-agent.pages.dev/#creator-pass
-- Creator Pass API: https://clockin-agent.pages.dev/api/creator-pass
+- Creator Pass + Listing Ticket API: https://clockin-agent.pages.dev/api/creator-pass
 
 ## Available Skills
 
@@ -54,9 +54,9 @@ Then ask which skill the user wants to run.
 ### Creator Pass Preview
 
 - Input: public Solana address, creator name, and skill idea
-- Output: readiness card, listing draft, and next AI prompt
-- Prompt: Generate a CLOCKIN Creator Pass preview using a public Solana address only. Return the readiness checks, listing draft, and next AI prompt. Do not request signatures, private keys, seed phrases, passwords, one-time codes, or payment credentials.
-- Safety: Format check only. No wallet connection, no ownership verification, no balance check, no transfer, and no private wallet data.
+- Output: readiness card, listing draft, manual GitHub issue ticket, and next AI prompt
+- Prompt: Generate a CLOCKIN Creator Pass preview using a public Solana address only. Return the readiness checks, listing draft, manual GitHub issue ticket, and next AI prompt. Do not request signatures, private keys, seed phrases, passwords, one-time codes, or payment credentials.
+- Safety: Format check only. No wallet connection, no ownership verification, no balance check, no transfer, no automatic public submission, and no private wallet data.
 
 ## Safety Rules
 

@@ -17,6 +17,7 @@ X: https://x.com/Waqas722297
 - A machine-readable agent card on the live site.
 - A draft-skill flow for packaging new workflows.
 - A no-signature Creator Pass preview for public Solana addresses and skill ideas.
+- A manual Creator Listing Ticket output that can open a prefilled GitHub issue draft without automatic submission.
 - GitHub issue templates for skill requests, Creator Pass feedback, and UX reports.
 
 ## How To Try It
@@ -25,7 +26,7 @@ X: https://x.com/Waqas722297
 2. Choose a skill from the catalog.
 3. Copy the skill prompt into your own AI agent.
 4. Use public input only.
-5. Optionally generate a Creator Pass preview with a public Solana address only.
+5. Optionally generate a Creator Pass preview and listing ticket with a public Solana address only.
 6. Return a useful artifact, not a vague plan.
 
 Starter prompt:
@@ -42,6 +43,7 @@ You are my AI operator. Read the CLOCKIN Skill, choose one safe public-input wor
 | Offer Builder | problem summary | offer, scope, delivery checklist | ready |
 | Distribution Pack | offer draft | X post, README block, landing copy | ready |
 | Skill Listing Builder | workflow idea | SKILL.md listing and safety notes | ready |
+| Creator Pass Preview | public Solana address + skill idea | readiness card, listing ticket, next prompt | live |
 | Public Code Review | public repo URL | issue map and PR checklist | queue |
 | Mini Tool Packager | tool idea | landing copy and API sketch | queue |
 
