@@ -8,6 +8,17 @@
   "skillFile": "https://clockin-agent.pages.dev/skills/SKILL.md",
   "skillCatalog": "https://clockin-agent.pages.dev/skills",
   "community": "https://clockin-agent.pages.dev/community",
+  "creatorPass": {
+    "status": "live_preview",
+    "url": "https://clockin-agent.pages.dev/#creator-pass",
+    "api": "https://clockin-agent.pages.dev/api/creator-pass",
+    "input": [
+      "public Solana address",
+      "creator name",
+      "skill idea"
+    ],
+    "boundary": "format check only; no wallet connection, signature, balance check, or token transfer"
+  },
   "skills": [
     {
       "id": "opportunity-scan",
@@ -29,6 +40,13 @@
       "input": "workflow idea",
       "output": "SKILL.md draft",
       "status": "ready"
+    },
+    {
+      "id": "creator-pass-preview",
+      "name": "Creator Pass Preview",
+      "input": "public Solana address, creator name, and skill idea",
+      "output": "readiness card, listing draft, and next AI prompt",
+      "status": "live"
     }
   ],
   "safety": [
@@ -40,4 +58,3 @@
     "manual approval before paid calls, signatures, or final publication"
   ]
 }
-

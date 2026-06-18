@@ -39,8 +39,16 @@
       "input": "workflow idea",
       "output": "SKILL.md listing, schema, and safety notes",
       "safety": "No secrets, no private repos unless the user explicitly provides access, and no credential handling."
+    },
+    {
+      "id": "creator-pass-preview",
+      "name": "Creator Pass Preview",
+      "category": "Solana",
+      "status": "LIVE",
+      "input": "public Solana address, creator name, and skill idea",
+      "output": "readiness card, listing draft, and next AI prompt",
+      "safety": "Format check only. No wallet connection, no ownership verification, no balance check, no transfer, and no private wallet data."
     }
   ],
-  "updatedAt": "2026-06-17"
+  "updatedAt": "2026-06-18"
 }
-

@@ -4,6 +4,7 @@ CLOCKIN is a public AI skill console for bindable agents. It packages small AI w
 
 Live site: https://clockin-agent.pages.dev  
 Skill catalog: https://clockin-agent.pages.dev/skills  
+Creator Pass: https://clockin-agent.pages.dev/#creator-pass  
 Community page: https://clockin-agent.pages.dev/community  
 Pitch page: https://clockin-agent.pages.dev/pitch  
 X: https://x.com/Waqas722297
@@ -15,6 +16,7 @@ X: https://x.com/Waqas722297
 - Skill detail pages with input, output, steps, examples, and safety.
 - A machine-readable agent card on the live site.
 - A draft-skill flow for packaging new workflows.
+- A no-signature Creator Pass preview for public Solana addresses and skill ideas.
 
 ## How To Try It
 
@@ -22,7 +24,8 @@ X: https://x.com/Waqas722297
 2. Choose a skill from the catalog.
 3. Copy the skill prompt into your own AI agent.
 4. Use public input only.
-5. Return a useful artifact, not a vague plan.
+5. Optionally generate a Creator Pass preview with a public Solana address only.
+6. Return a useful artifact, not a vague plan.
 
 Starter prompt:
 
@@ -48,6 +51,7 @@ You are my AI operator. Read the CLOCKIN Skill, choose one safe public-input wor
 - No fake engagement, wash trading, account abuse, private scraping, or wallet-risk tasks.
 - No profit promises, investment claims, revenue-share claims, buyback claims, or price targets.
 - Any paid call, wallet signature, final publication, or token action requires explicit manual approval from the user.
+- Creator Pass is public-address format preview only. It does not verify wallet ownership, check balances, request signatures, or move tokens.
 
 ## Contributing Skill Ideas
 
@@ -62,4 +66,3 @@ Open an issue with:
 - safety boundary
 
 Good skill ideas are narrow, repeatable, and useful without private data.
-

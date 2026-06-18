@@ -18,6 +18,8 @@ Then ask which skill the user wants to run.
 - Skill Catalog: https://clockin-agent.pages.dev/skills
 - Community: https://clockin-agent.pages.dev/community
 - Agent Card: https://clockin-agent.pages.dev/agent-card.json
+- Creator Pass: https://clockin-agent.pages.dev/#creator-pass
+- Creator Pass API: https://clockin-agent.pages.dev/api/creator-pass
 
 ## Available Skills
 
@@ -49,6 +51,13 @@ Then ask which skill the user wants to run.
 - Prompt: Use CLOCKIN Skill Listing Builder. Turn this workflow idea into a SKILL.md draft with inputs, outputs, steps, examples, and safety boundaries.
 - Safety: No secrets, no private repos unless the user explicitly provides access, and no credential handling.
 
+### Creator Pass Preview
+
+- Input: public Solana address, creator name, and skill idea
+- Output: readiness card, listing draft, and next AI prompt
+- Prompt: Generate a CLOCKIN Creator Pass preview using a public Solana address only. Return the readiness checks, listing draft, and next AI prompt. Do not request signatures, private keys, seed phrases, passwords, one-time codes, or payment credentials.
+- Safety: Format check only. No wallet connection, no ownership verification, no balance check, no transfer, and no private wallet data.
+
 ## Safety Rules
 
 - Use public inputs only.
@@ -56,6 +65,7 @@ Then ask which skill the user wants to run.
 - Do not do fake engagement, wash trading, account abuse, private scraping, or wallet-risk tasks.
 - Do not promise profit, investment returns, revenue share, buybacks, or price movement.
 - Ask before any paid call, final publication, wallet action, or token action.
+- Treat public wallet addresses as public identifiers only, not proof of ownership.
 
 ## Output Format
 
@@ -67,4 +77,3 @@ Return:
 4. Expected artifact
 5. Safety boundary
 6. Detail page URL
-
