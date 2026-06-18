@@ -6,7 +6,7 @@ Live site: https://clockin-agent.pages.dev
 Skill catalog: https://clockin-agent.pages.dev/skills  
 Creator Pass: https://clockin-agent.pages.dev/#creator-pass  
 Community page: https://clockin-agent.pages.dev/community  
-Pitch page: https://clockin-agent.pages.dev/pitch  
+Builder brief: https://clockin-agent.pages.dev/pitch  
 X: https://x.com/Waqas722297
 
 ## What Is Public
