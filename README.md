@@ -7,7 +7,14 @@ Skill catalog: https://clockin-agent.pages.dev/skills
 Creator Pass: https://clockin-agent.pages.dev/#creator-pass  
 Community page: https://clockin-agent.pages.dev/community  
 Builder brief: https://clockin-agent.pages.dev/pitch  
-X: https://x.com/Waqas722297
+X: https://x.com/Waqas722297  
+Token: https://pump.fun/coin/HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump
+
+CA:
+
+```text
+HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump
+```
 
 ## What Is Public
 
@@ -19,6 +26,7 @@ X: https://x.com/Waqas722297
 - A no-signature Creator Pass preview for public Solana addresses and skill ideas.
 - A manual Creator Listing Ticket output that can open a prefilled GitHub issue draft without automatic submission.
 - GitHub issue templates for skill requests, Creator Pass feedback, and UX reports.
+- A live token surface for staged skill access, creator identity, listing actions, and route voting.
 
 ## How To Try It
 
@@ -55,6 +63,7 @@ You are my AI operator. Read the CLOCKIN Skill, choose one safe public-input wor
 - No profit promises, investment claims, revenue-share claims, buyback claims, or price targets.
 - Any paid call, wallet signature, final publication, or token action requires explicit manual approval from the user.
 - Creator Pass is public-address format preview only. It does not verify wallet ownership, check balances, request signatures, or move tokens.
+- The token is not a profit promise. It is a public coordination and access layer around the skill console.
 
 ## Contributing Skill Ideas
 

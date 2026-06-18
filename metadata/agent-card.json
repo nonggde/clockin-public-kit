@@ -5,6 +5,18 @@
   "status": "public_demo",
   "site": "https://clockin-agent.pages.dev",
   "x": "https://x.com/Waqas722297",
+  "token": {
+    "chain": "solana",
+    "ca": "HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump",
+    "pumpUrl": "https://pump.fun/coin/HXyjgP4T2o7pp8NHkhkHUD1ZRNZR2zhbFgGybjbapump",
+    "utility": [
+      "skill access experiments",
+      "creator identity",
+      "manual listing actions",
+      "route voting"
+    ],
+    "boundary": "no profit promises, revenue-share claims, buybacks, price targets, wallet signatures, or token transfers by agents"
+  },
   "skillFile": "https://clockin-agent.pages.dev/skills/SKILL.md",
   "skillCatalog": "https://clockin-agent.pages.dev/skills",
   "community": "https://clockin-agent.pages.dev/community",

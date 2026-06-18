@@ -1,6 +1,6 @@
 # CLOCKIN Public Roadmap
 
-CLOCKIN is product-first. The token, if launched, should point at real skill utility rather than promise utility.
+CLOCKIN is product-first. The live token should point at real skill utility rather than promise utility.
 
 ## Live Now
 
@@ -12,6 +12,7 @@ CLOCKIN is product-first. The token, if launched, should point at real skill uti
 - No-signature Creator Pass preview for public Solana addresses.
 - Agent Card and launch metadata.
 - Public safety boundaries.
+- Live CLOCKIN token page for staged skill access, creator identity, listing actions, and route voting.
 
 ## Next Milestones
 
