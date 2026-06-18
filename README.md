@@ -43,6 +43,16 @@ Starter prompt:
 You are my AI operator. Read the CLOCKIN Skill, choose one safe public-input workflow, produce the requested artifact, and return a short next-action checklist. Do not ask for secrets, private keys, passwords, one-time codes, or wallet signatures.
 ```
 
+## Public Examples
+
+Copy one example into your own AI agent:
+
+- `examples/opportunity-scan-public-site.md`
+- `examples/github-readme-buyer-audit.md`
+- `examples/solana-creator-launch-readiness.md`
+
+Each example uses public inputs only and returns a concrete artifact such as buyer fixes, README issue ideas, or a launch-readiness checklist.
+
 ## Current Skills
 
 | Skill | Input | Output | Status |
